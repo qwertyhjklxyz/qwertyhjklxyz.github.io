@@ -1,0 +1,12 @@
+baseURL = 'https://www.qwertyhjkl.xyz/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'coming-soon'
+
+[params]
+    title = " "
+    description = ""
+    favicon = ""
+    message = "COMING SOON!"
+    release = "January 1, 2025"
+    background = ""
